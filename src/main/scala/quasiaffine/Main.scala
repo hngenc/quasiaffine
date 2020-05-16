@@ -44,7 +44,7 @@ object Main {
       println("======================")
 
       println(s"expr:\t\t$expr")
-      println(s"c:\t\t\t$c\n")
+      println(s"c:\t\t$c\n")
 
       println(s"optimized:\t${Passes(expr)}\n")
 
