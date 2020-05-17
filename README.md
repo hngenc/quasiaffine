@@ -29,4 +29,4 @@ There are other passes as well, but these were the most relevant to mention.
 ## Testing
 
 Better testing infrastructure needs to be added.
-Right now, we use the `tests.py` script for testing, but this is manual and not extensible.
+Right now, we use the `tests.py` script for testing, but this is manual and not scalable.
